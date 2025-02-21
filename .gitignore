@@ -1,0 +1,21 @@
+# Ignore compiled class files
+*.class
+
+# Ignore bin/ (Eclipse output folder)
+bin/
+
+# Ignore Eclipse metadata
+.classpath
+.project
+.settings/
+.metadata
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+#DS_Store file (Mac OS)
+*.DS_Store
