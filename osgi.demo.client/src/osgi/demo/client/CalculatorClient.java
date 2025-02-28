@@ -1,4 +1,4 @@
-package osgi.demo.calculator.client;
+package osgi.demo.client;
 
 import osgi.demo.calculator.CalculatorService;
 

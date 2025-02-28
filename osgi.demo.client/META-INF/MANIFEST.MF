@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Calculator Client
-Bundle-SymbolicName: osgi.demo.calculator.client
+Bundle-SymbolicName: osgi.demo.client
 Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: osgi.demo.calculator.client.Activator
+Bundle-Activator: osgi.demo.client.Activator
 Bundle-Vendor: Vlad Biastinov
 Bundle-RequiredExecutionEnvironment: JavaSE-21
 Automatic-Module-Name: calculator.client

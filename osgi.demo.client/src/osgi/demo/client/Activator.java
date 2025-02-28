@@ -1,4 +1,4 @@
-package osgi.demo.calculator.client;
+package osgi.demo.client;
 
 import org.osgi.framework.BundleActivator;
 import org.osgi.framework.BundleContext;
