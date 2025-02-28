@@ -20,7 +20,7 @@ public class CalculatorServiceImpl implements CalculatorService {
     @Override
     public double divide(double a, double b) {
         if (b == 0) {
-            throw new ArithmeticException("Cannot divide by zero");
+            throw new ArithmeticException("Divide by zero");
         }
         return a / b;
     }
