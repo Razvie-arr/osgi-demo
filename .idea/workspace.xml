@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="178d6f12-812a-46f1-b83b-b50b0d193cdc" name="Changes" comment="mavenize project in classic layout">
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/osgi.demo.client/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Razvie-arr&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Razvie-arr/osgi-demo.git&quot;,
+    &quot;accountId&quot;: &quot;35b857a8-b2ed-4d8b-8625-4b27c830ab70&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tfnRwOfx1NXgF9pdTFdQzL7o6r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven.osgi.demo.calculator [install].executor": "Run",
+    "Maven.parent [clean].executor": "Run",
+    "Maven.parent [install].executor": "Run",
+    "Maven.parent [package].executor": "Run",
+    "OSGi Bundles.Calculator.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "classic__layout",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/razviearr/Univerzita/diploma/diploma-software/osgi-demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3954023",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/osgi.demo.client" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="#org.osmorc.OsgiConfigurationType" vmParameters="" programParameters="" includeAllBundlesInClassPath="false" workingDir="$PROJECT_DIR$/out/run.osgi/" useAlternativeJre="false" alternativeJrePath="" frameworkStartLevel="5" defaultStartLevel="5" generateWorkingDir="false">
+      <bundle name="osgi.demo.client" startLevel="4" type="Module" startAfterInstallation="true" />
+      <bundle name="osgi.demo.calculator" startLevel="4" type="Module" startAfterInstallation="true" />
+      <framework instance="Equinox (3.22.0.v20241030-2121)" />
+      <additionalProperties startConsole="true" equinoxApplication="" systemPackages="" equinoxProduct="" debugMode="false" bootDelegation="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="178d6f12-812a-46f1-b83b-b50b0d193cdc" name="Changes" comment="" />
+      <created>1740751991310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740751991310</updated>
+      <workItem from="1740751992406" duration="928000" />
+      <workItem from="1740769684722" duration="295000" />
+      <workItem from="1740772504301" duration="2195000" />
+      <workItem from="1740832100330" duration="4912000" />
+      <workItem from="1740839096344" duration="653000" />
+      <workItem from="1740943192350" duration="43000" />
+      <workItem from="1741978213159" duration="287000" />
+      <workItem from="1742038360022" duration="4121000" />
+      <workItem from="1742050726623" duration="6134000" />
+      <workItem from="1742308149273" duration="35000" />
+      <workItem from="1742308219789" duration="2247000" />
+      <workItem from="1742311130103" duration="2370000" />
+    </task>
+    <task id="LOCAL-00001" summary="rename calculator client package name">
+      <option name="closed" value="true" />
+      <created>1740774132141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740774132141</updated>
+    </task>
+    <task id="LOCAL-00002" summary="intellij configuration">
+      <option name="closed" value="true" />
+      <created>1740839131118</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740839131118</updated>
+    </task>
+    <task id="LOCAL-00003" summary="mavenize project in classic layout">
+      <option name="closed" value="true" />
+      <created>1741978294321</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741978294321</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="rename calculator client package name" />
+    <MESSAGE value="intellij configuration" />
+    <MESSAGE value="mavenize project in classic layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="mavenize project in classic layout" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
