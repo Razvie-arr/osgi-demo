@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="178d6f12-812a-46f1-b83b-b50b0d193cdc" name="Changes" comment="mavenize project in classic layout">
-      <change beforePath="$PROJECT_DIR$/osgi.demo.client/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/osgi.demo.client/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" afterDir="false" />
+    <list default="true" id="178d6f12-812a-46f1-b83b-b50b0d193cdc" name="Changes" comment="add ide settings">
+      <change afterPath="$PROJECT_DIR$/.mvn/extensions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/maven.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/osgi.demo.calculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/osgi.demo.calculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/Activator.java" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/Activator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.client/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.client/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/build.properties" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.client/build.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.client/osgi.demo.client.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/src/osgi/demo/client/Activator.java" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.client/src/osgi/demo/client/Activator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/osgi.demo.client/src/osgi/demo/client/CalculatorClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/bundles/osgi.demo.client/src/osgi/demo/client/CalculatorClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +38,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="classic_layout" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -26,6 +51,31 @@
     &quot;assignee&quot;: &quot;Razvie-arr&quot;
   }
 }</component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="pomless-layout" />
+                    <option name="lastUsedInstant" value="1742314412" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="classic_layout" />
+                    <option name="lastUsedInstant" value="1742314411" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:Razvie-arr/osgi-demo.git&quot;,
@@ -42,6 +92,7 @@
   <component name="ProjectId" id="2tfnRwOfx1NXgF9pdTFdQzL7o6r" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
@@ -56,7 +107,8 @@
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "classic__layout",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "pomless-layout",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/razviearr/Univerzita/diploma/diploma-software/osgi-demo",
     "node.js.detected.package.eslint": "true",
@@ -72,6 +124,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bundles" />
       <recent name="$PROJECT_DIR$/osgi.demo.client" />
     </key>
   </component>
@@ -113,7 +166,7 @@
       <workItem from="1742050726623" duration="6134000" />
       <workItem from="1742308149273" duration="35000" />
       <workItem from="1742308219789" duration="2247000" />
-      <workItem from="1742311130103" duration="2370000" />
+      <workItem from="1742311130103" duration="6593000" />
     </task>
     <task id="LOCAL-00001" summary="rename calculator client package name">
       <option name="closed" value="true" />
@@ -139,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741978294321</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add ide settings">
+      <option name="closed" value="true" />
+      <created>1742314397886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742314397886</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,28 +233,29 @@
     <MESSAGE value="rename calculator client package name" />
     <MESSAGE value="intellij configuration" />
     <MESSAGE value="mavenize project in classic layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="mavenize project in classic layout" />
+    <MESSAGE value="add ide settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ide settings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <url>file://$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
           <line>6</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <url>file://$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <url>file://$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
           <line>16</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
+          <url>file://$PROJECT_DIR$/bundles/osgi.demo.calculator/src/osgi/demo/calculator/CalculatorServiceImpl.java</url>
           <line>21</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

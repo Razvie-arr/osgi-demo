@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="osgi.demo.calculator" />
-        <module name="osgi.demo.client" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="osgi.demo.calculator" target="21" />
+      <module name="osgi.demo.client" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>

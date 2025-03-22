@@ -28,7 +28,6 @@
   	</repository>
   </repositories>
   <modules>
-  	<module>osgi.demo.calculator</module>
-  	<module>osgi.demo.client</module>
+  	<module>bundles</module>
   </modules>
 </project>

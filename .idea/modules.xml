@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/osgi.demo.calculator/osgi.demo.calculator.iml" filepath="$PROJECT_DIR$/osgi.demo.calculator/osgi.demo.calculator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" filepath="$PROJECT_DIR$/osgi.demo.client/osgi.demo.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
     </modules>
   </component>
 </project>
